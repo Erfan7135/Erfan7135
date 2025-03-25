@@ -5,7 +5,7 @@ Shyamoli, Dhaka | +8801847-313649 | [Email](erfanchy4@gmail.com) | [LinkedIn](ht
 
 ---
 
-## **Professional Summary**
+## **Summary**
 
 Motivated and detail-oriented CSE graduate with a strong foundation in programming, problem-solving, and web development. Passionate about leveraging technology to create impactful solutions.
 
