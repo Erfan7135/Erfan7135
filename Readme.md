@@ -1,5 +1,3 @@
-# Professional CV
-
 ## **MD. Erfan Jahangir Chowdhury**
 
 **BUET CSE Graduate**  
