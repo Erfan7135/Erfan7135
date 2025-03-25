@@ -13,10 +13,8 @@ Motivated and detail-oriented CSE graduate with a strong foundation in programmi
 
 ## **Education**
 
-**Bachelor of [Science]** — *Bangladesh University of Engineering & Technology*  
+**B.Sc. in CSE** — *Bangladesh University of Engineering & Technology*  
 **2018 – 2025**  
-
-- Major/Minor: [Computer Science & Engineering]  
 
 ---
 
