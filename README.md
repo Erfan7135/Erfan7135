@@ -18,17 +18,11 @@ Motivated and detail-oriented CSE graduate with a strong foundation in programmi
 
 ---
 
-## **Projects**
+## **Academic Projects**
 
-### **[Project Name1](https://github.com/username/project)**
+### **[OCR Based CRVS Form Digitalizaton](https://github.com/OCR-based-CRVS-digitization)**
 
-- Developed [brief project description], utilizing [technologies].
-- Achieved [specific outcome] or solved [specific problem].
-
-### **[Project Name2](https://github.com/username/project)**
-
-- Worked on [key features or functionalities], focusing on [core skills].
-- Learned [important takeaway] during the development process.
+- A web platform built with Node.js, React.js, and PostgreSQL, utilizing OCR to process handwritten CRVS forms, extract information, and enable accurate digitalization and correction of values.
 
 ---
 
@@ -36,7 +30,7 @@ Motivated and detail-oriented CSE graduate with a strong foundation in programmi
 
 - **Programming Languages:** C, C++, Java, Python
 - **Frameworks & Libraries:** React, Node.js
-- **Databases:** MySQL, CockroachDB
+- **Databases:** MySQL, PostgreSQL, CockroachDB
 - **Tools & Platforms:** Git
 
 
