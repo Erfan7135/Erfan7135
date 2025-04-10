@@ -50,17 +50,21 @@ A Computer Science and Engineering graduate from BUET with a strong foundation i
 ## 📂 Academic Projects
 
 ### 📌 [OCR-based CRVS Digitization (Backend Developer)](https://github.com/OCR-based-CRVS-digitization) — 2023
-- Developed backend systems for digitizing handwritten civil registration forms using Tesseract OCR  
-- Designed and implemented a robust data management system for efficient storage and retrieval  
-- Created real-time editing and validation features to ensure data accuracy  
-- Utilized Node.js and database technologies to handle complex data processing workflows  
+- Designed and implemented a robust backend architecture (Node.js, Express) utilizing PostgreSQL and Prisma ORM for efficient CRVS form digitization.
+- Integrated external OCR service and Firebase Storage via RESTful APIs to automate data extraction and document management, secured with JWT authentication.  
+- Contributed to a full-stack team, collaborating on React frontend integration and OCR microservice utilization to achieve an automated validation pipeline. 
 
 ### 📌 [Bangla Text Summarizer](https://github.com/Erfan7135/Bangla-Text-Summarizer) — 2023
 - Engineered a Python-based text summarization tool specifically for Bengali language content  
 - Implemented NLP techniques including TextRank algorithm and hierarchical clustering  
 - Developed sentence tokenization and optimization for Bengali with UTF-8 encoding  
 - Created functionality to process both single texts and CSV datasets with multiple entries  
-- Integrated Bengali stopwords to improve summary quality and relevance  
+- Integrated Bengali stopwords to improve summary quality and relevance
+
+### 📌 [E-Commerce Platform Development (Django & Oracle)](https://github.com/Erfan7135/eBipani_) — 2021
+- Engineered a multi-role e-commerce platform (customer, seller, admin) featuring user authentication, product catalog/search, shopping cart, order processing, reviews, and profile management.
+- Built role-specific user interfaces within Django, driven by a well-structured Oracle database and backend logic implemented in PL/SQL.
+- Demonstrated proficiency in database design and management by creating a complete schema with defined relations and business rules, accessed through raw SQL queries.
 
 ---
 
